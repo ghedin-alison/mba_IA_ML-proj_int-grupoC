@@ -1,0 +1,22 @@
+
+{
+"codProduto": "string",
+"descricaoProduto": "string",
+"dataVencimentoTitulo": "yyyy-mm-dd",
+"tipoInvestimento": "string",
+"taxaRetorno": 0.0,
+"fundosRelacionados": [{ "nomeFundo":"string", "codFundo":"string" }, { "nomeFundo":"string", "codFundo":"string" }],
+"avaliacoes":[{
+    "dataAvaliacao": "yyyy-mm-dd",
+    "pontuacao": 0.0,
+    "comentario": "string"
+}],
+"micro-analises":{
+    "rentabilidadeMedia": 0.0,
+    "rendimentoSemanal": 0.0,
+    "rendimentoMensal": 0.0,
+    "rendimentoTrimestral": 0.0,
+    "rendimentoSemestral": 0.0,
+    "rendimentoAnual": 0.0
+}
+}

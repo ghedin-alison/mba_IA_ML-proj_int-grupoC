@@ -1,0 +1,22 @@
+{
+"codProduto": "string",
+"descricaoProduto": "string",
+"tipoProduto": "string",
+
+"infoSeguro":{
+    "categoria":"string",
+    "prazoVigencia": 0
+},
+
+"infoEmprestimo":{
+    "categoria":"string",
+    "taxaJuros": 0.0,
+    "prazoMaximo" : 0 
+},
+
+"avaliacoes":[{
+    "dataAvaliacao": "yyyy-mm-dd",
+    "pontuacao": 0.0,
+    "comentario": "string"
+}]
+}
