@@ -2,4 +2,4 @@
 
 O trabalho é composto pelos seguintes arquivos:
 
-* Arquivo Word com Diagrama e Descrição: [Arquivo]
+Arquivo Word com Diagrama e Descrição: 
