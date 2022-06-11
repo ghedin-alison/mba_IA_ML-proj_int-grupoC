@@ -2,4 +2,4 @@
 
 O trabalho é composto pelos seguintes arquivos:
 
-* Arquivo Word com Diagrama e Descrição: [Arquivo](/Arquitetura de Dados - Trabalho 01 - MER.docx)
+* Arquivo Word com Diagrama e Descrição: [Arquivo]
