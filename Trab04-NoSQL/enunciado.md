@@ -7,7 +7,7 @@ Trabalho:
 
     R: Optamos por uma abordagem de NoSQL starschema por viabilizar um modelo mais flexivel e escalável. 
     O banco de dados que usaremos será o mongodb.
-    Amplamente utilizado no mercado nos proporciona facilidade de manutenção, escalável e de baixo custo operacional.
+    Amplamente utilizado no mercado nos proporciona facilidade de manutenção e distribuição, escalável e de baixo custo operacional. 
     
 
 
