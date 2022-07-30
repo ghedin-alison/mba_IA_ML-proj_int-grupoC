@@ -15,6 +15,9 @@ Este repositório está organizado da seguinte maneira:
 
 * Diretório [Trab03-NoSQL](./Trab03-NoSQL/): Trabalho 03 referente a criação de arquitetura NoSQL para os casos de uso solicitados. 
 
+* Diretório [Trab04-NoSQL](./Trab04-NoSQL/): Trabalho 04 referente a dois modelos de dados orientado a produtos e investimentos. 
+
+* Diretório [Trab05-NoSQL](./Trab05-NoSQL/): Trabalho 05 referente a modelos para processamento de machine learning e diagrama da arquitetura com as tecnologias utilizadas na matéria. 
 
 
 ### Integrantes
@@ -23,5 +26,3 @@ Este repositório está organizado da seguinte maneira:
 | --- | --- | 
 | 345377 | Alison Junior Ghedin |
 | 345946 | Leonardo Sarzedas do Carmo Vieira |
-| 345989 | Marcos Antonio Speca Junior |
-| 346263 | Valeria Vieira dos Santos |
